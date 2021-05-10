@@ -1,1 +1,1 @@
-# Point-of-interest-recommendation-system
+# Serendipity-based Point-of-interest-recommendation-system
